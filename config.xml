@@ -17,6 +17,8 @@
         Mashiur Rahman
     </author>
 	
+	<preference name="phonegap-version" value="3.3.0" />
+	
 	<feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation" value="portrait" />
@@ -38,7 +40,7 @@
 	<icon src="icon.png" />
 	<splash src="splash.png" />
 	
-	<content src="https://www.wish.com.au" />
+	<content src="http://www.propixen.com" />
     <access origin="*" subdomains="true" />
 
 </widget>
