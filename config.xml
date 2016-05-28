@@ -38,7 +38,7 @@
 	<icon src="icon.png" />
 	<splash src="splash.png" />
 	
-	<content src="http://www.propixen.com" />
+	<content src="https://www.wish.com.au" />
     <access origin="*" subdomains="true" />
 
 </widget>
